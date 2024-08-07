@@ -6,7 +6,6 @@ Es uno de las más comunes y peligrosas que suceden, se refiere a situaciones do
 operaciones muy costosas, con lo cual consumen una gran cantidad de recusos de la blockchain. Bucles, recursividad
 o incluso contra otros SC que tengan un can coste.
 */
-
 contract CostlyOperations {
     uint256 public constant MAX_ITERATIONS = 1600;
 
